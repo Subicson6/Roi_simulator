@@ -1,4 +1,5 @@
 Invoicing ROI Simulator
+
 This is a full-stack web application that helps users visualize the cost savings and Return on Investment (ROI) when switching from manual to automated invoicing. The frontend is built with React, and the backend is a REST API built with Python and Flask.
 
 📂 Project Structure
